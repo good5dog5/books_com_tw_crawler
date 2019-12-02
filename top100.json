@@ -1,0 +1,803 @@
+{
+   "0":{
+      "title":"穿越撒哈拉：流浪，走向風沙未竟之地",
+      "author":"謝哲青",
+      "categories":"本書分類：文學小說> 華文創作> 散文本書分類：文學小說> 華文創作> 旅遊文學",
+      "orig_price":"定價：450元",
+      "spec_price":"優惠價：79折356元",
+      "rank":0
+   },
+   "1":{
+      "title":"精準決策：哈佛商學院教你繞開大腦的偏誤，不出錯的做出好判斷\nJudgment in Managerial Decision Making",
+      "author":"麥斯．貝澤曼",
+      "categories":"本書分類：商業理財> 職場工作術> 思考邏輯／決斷／創意",
+      "orig_price":"定價：450元",
+      "spec_price":"優惠價：66折297元",
+      "rank":1
+   },
+   "2":{
+      "title":"勇敢層級：用你喜歡的方式，活出你自己",
+      "author":"紫嚴導師",
+      "categories":"本書分類：心理勵志> 個人成長> 心靈成長本書分類：宗教命理> 宗教概論",
+      "orig_price":"定價：340元",
+      "spec_price":"優惠價：79折269元",
+      "rank":2
+   },
+   "3":{
+      "title":"外商CEO內傷的每一天",
+      "author":"黃麗燕（瑪格麗特）",
+      "categories":"本書分類：商業理財> 傳記> 人物傳記本書分類：心理勵志> 勵志故事/散文> 真實人生故事",
+      "orig_price":"定價：330元",
+      "spec_price":"優惠期限：2019年12月31日止",
+      "rank":3
+   },
+   "4":{
+      "title":"100 個日常正念瑜珈：任何人任何時間都可以練習的瑜珈、近100 篇研究論文搭配100 個實際操作的瑜珈與靜心練習",
+      "author":"李怡如",
+      "categories":"本書分類：醫療保健> 養生法> 瑜伽/皮拉提斯/伸展",
+      "orig_price":"定價：420元",
+      "spec_price":"優惠價：79折332元",
+      "rank":4
+   },
+   "5":{
+      "title":"82年生的金智英\n82년생 김지영",
+      "author":"趙南柱",
+      "categories":"本書分類：文學小說> 翻譯文學> 亞洲文學",
+      "orig_price":"定價：310元",
+      "spec_price":"優惠價：79折245元",
+      "rank":5
+   },
+   "6":{
+      "title":"一流工作者都在用的待辦清單：省時、減壓、事情做得完的神奇高效公式【隨書送】一流工作者都在用的待辦清單 神奇公式練習冊\nTo-Do List Formula: A Stress-Free Guide To Creating To-Do Lists That Work！",
+      "author":"戴蒙．札哈里斯",
+      "categories":"本書分類：商業理財> 職場工作術> 時間管理",
+      "orig_price":"定價：320元",
+      "spec_price":"優惠價：79折253元",
+      "rank":6
+   },
+   "7":{
+      "title":"主力的思維：日本神之散戶cis，發一條推特就能撼動日經指數【隨書附2020年趨勢解析與投資規劃】\n一人の力で日経平均を動かせる男の投資哲学",
+      "author":"cis",
+      "categories":"本書分類：商業理財> 投資理財> 股票／證券",
+      "orig_price":"定價：380元",
+      "spec_price":"優惠價：79折300元",
+      "rank":7
+   },
+   "8":{
+      "title":"傳染全五冊",
+      "author":"吉田戰車 ",
+      "categories":"本書分類：漫畫> 其他類型> 輕鬆幽默",
+      "orig_price":"定價：1250元",
+      "spec_price":"優惠價：85折1063元",
+      "rank":8
+   },
+   "9":{
+      "title":"蔡康永的情商課2：因為這是你的人生",
+      "author":"蔡康永 ",
+      "categories":"本書分類：心理勵志> 人際關係> 說話/溝通本書分類：心理勵志> 情緒/壓力",
+      "orig_price":"定價：350元",
+      "spec_price":"優惠價：79折277元",
+      "rank":9
+   },
+   "10":{
+      "title":"傳染全五冊\n伝染るんです。1-5",
+      "author":"吉田戰車",
+      "categories":"本書分類：漫畫> 其他類型> 輕鬆幽默",
+      "orig_price":"定價：1250元",
+      "spec_price":"優惠價：85折1063元",
+      "rank":10
+   },
+   "11":{
+      "title":"原子習慣：細微改變帶來巨大成就的實證法則\nAtomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+      "author":"詹姆斯‧克利爾",
+      "categories":"本書分類：商業理財> 成功法> 自我成長本書分類：心理勵志> 人格天賦/潛能開發",
+      "orig_price":"定價：330元",
+      "spec_price":"優惠價：79折261元",
+      "rank":11
+   },
+   "12":{
+      "title":"小書痴的下剋上：為了成為圖書管理員不擇手段！【第四部】貴族院的自稱圖書委員II\n本好きの下剋上〜司書になるためには手段を選んでいられません〜第四部「貴族院の自称図書委員II」",
+      "author":"香月美夜",
+      "categories":"本書分類：輕小說> 日本作品> 幻奇冒險",
+      "orig_price":"定價：299元",
+      "spec_price":"優惠價：79折236元",
+      "rank":12
+   },
+   "13":{
+      "title":"財務自由的人生：跟著首席分析師楊應超學華爾街的投資技巧和工作效率，40歲就過FIRE的優質生活",
+      "author":"楊應超",
+      "categories":"本書分類：商業理財> 投資理財> 理財規劃> 個人理財",
+      "orig_price":"定價：350元",
+      "spec_price":"優惠價：79折277元",
+      "rank":13
+   },
+   "14":{
+      "title":"蒙特梭利教養進行式：翩翩園長的45個正向教養解方",
+      "author":"何翩翩",
+      "categories":"本書分類：親子教養> 教育現場> 幼兒教育",
+      "orig_price":"定價：380元",
+      "spec_price":"優惠價：79折300元",
+      "rank":14
+   },
+   "15":{
+      "title":"勇敢的人請小心輕放",
+      "author":"艾莉",
+      "categories":"本書分類：心理勵志> 勵志故事/散文> 勵志小品文",
+      "orig_price":"定價：350元",
+      "spec_price":"優惠價：79折277元",
+      "rank":15
+   },
+   "16":{
+      "title":"代謝力UP減醣好好：體重輕鬆瘦，體脂降10％的升級版技巧",
+      "author":"娜塔",
+      "categories":"本書分類：生活風格> 塑身美妝> 瘦身美體",
+      "orig_price":"定價：360元",
+      "spec_price":"優惠價：79折284元",
+      "rank":16
+   },
+   "17":{
+      "title":"慈悲善終：社工師的臨床陪伴日誌",
+      "author":"林怡嘉",
+      "categories":"本書分類：心理勵志> 勵志故事/散文> 真實人生故事本書分類：心理勵志> 生死醫病",
+      "orig_price":"定價：320元",
+      "spec_price":"優惠價：79折253元",
+      "rank":17
+   },
+   "18":{
+      "title":"新制多益 NEW TOEIC 單字大全：2018起多益",
+      "author":" David Cho",
+      "categories":"本書分類：語言學習> 語言能力檢定測驗> NEWTOEIC新多益> 字彙",
+      "orig_price":"定價：499元",
+      "spec_price":"優惠價：79折394元",
+      "rank":18
+   },
+   "19":{
+      "title":"新制多益 NEW TOEIC 單字大全：2018起多益更新單字資訊完全掌握！(附13小時8種版本MP3)\n해커스 신 토익 보카",
+      "author":"David Cho",
+      "categories":"本書分類：語言學習> 語言能力檢定測驗> NEWTOEIC新多益> 字彙",
+      "orig_price":"定價：499元",
+      "spec_price":"優惠價：79折394元",
+      "rank":19
+   },
+   "20":{
+      "title":"蔡康永的情商課：為你自己活一次",
+      "author":"蔡康永",
+      "categories":"本書分類：心理勵志> 人際關係> 說話/溝通本書分類：心理勵志> 情緒/壓力",
+      "orig_price":"定價：350元",
+      "spec_price":"優惠價：79折277元",
+      "rank":20
+   },
+   "21":{
+      "title":"一日三餐減醣料理：單週無壓力消失2kg的美味計劃，72道低醣速瘦搭配餐",
+      "author":"娜塔",
+      "categories":"本書分類：醫療保健> 養生法> 減重本書分類：飲食> 食譜> 其他/綜合本書分類：生活風格> 塑身美妝> 瘦身美體",
+      "orig_price":"定價：380元",
+      "spec_price":"優惠價：79折300元",
+      "rank":21
+   },
+   "22":{
+      "title":"擁有超常技能的異世界流浪美食家 7.瘦肉排×創造神的審判 (首刷限定版)",
+      "author":"江口 連",
+      "categories":"本書分類：輕小說> 日本作品> 幻奇冒險",
+      "orig_price":"定價：280元",
+      "spec_price":"優惠價：95折266元",
+      "rank":22
+   },
+   "23":{
+      "title":"侯文詠短篇小說集【30週年紀念完全珍藏版】(博客來獨家限量發售 侯文詠親筆簽名書)",
+      "author":"侯文詠",
+      "categories":"本書分類：文學小說> 華文創作> 小說",
+      "orig_price":"定價：420元",
+      "spec_price":"優惠價：79折332元",
+      "rank":23
+   },
+   "24":{
+      "title":"謝謝你，也剛好喜歡我：全世界我只要你的喜歡",
+      "author":"肆一",
+      "categories":"本書分類：心理勵志> 兩性與家庭關係> 兩性關係",
+      "orig_price":"定價：350元",
+      "spec_price":"優惠價：79折277元",
+      "rank":24
+   },
+   "25":{
+      "title":"莫斯科紳士",
+      "author":"亞莫爾．托歐斯 ",
+      "categories":"本書分類：文學小說> 翻譯文學> 美國文學",
+      "orig_price":"定價：450元",
+      "spec_price":"優惠價：79折356元",
+      "rank":25
+   },
+   "26":{
+      "title":"比句點更悲傷",
+      "author":"大師兄",
+      "categories":"本書分類：心理勵志> 生死醫病",
+      "orig_price":"定價：320元",
+      "spec_price":"優惠價：79折253元",
+      "rank":26
+   },
+   "27":{
+      "title":"日日朵朵【首刷限定朵朵親筆簽名書】",
+      "author":"朵朵",
+      "categories":"本書分類：心理勵志> 勵志故事/散文> 勵志小品文",
+      "orig_price":"定價：380元",
+      "spec_price":"優惠價：79折300元",
+      "rank":27
+   },
+   "28":{
+      "title":"斜槓青年：全球職涯新趨勢，迎接更有價值的多職人生",
+      "author":"Susan Kuang",
+      "categories":"本書分類：商業理財> 成功法> 生涯規劃",
+      "orig_price":"定價：280元",
+      "spec_price":"優惠價：79折221元",
+      "rank":28
+   },
+   "29":{
+      "title":"一次戰勝新制多益TOEIC必考核心單字（附1CD＋QR碼線上音檔）",
+      "author":"蔡馨慧Nicole",
+      "categories":"本書分類：語言學習> 語言能力檢定測驗> NEWTOEIC新多益> 字彙",
+      "orig_price":"定價：480元",
+      "spec_price":"優惠價：75折360元",
+      "rank":29
+   },
+   "30":{
+      "title":"臺灣數據百閱（雙面書封設計）：100個重要議題，從圖表開啟對話、培養公民思辨力",
+      "author":"Re-lab團隊",
+      "categories":"本書分類：商業理財> 職場工作術> 演講／簡報本書分類：社會科學> 總論",
+      "orig_price":"定價：480元",
+      "spec_price":"優惠價：79折379元",
+      "rank":30
+   },
+   "31":{
+      "title":"布袋爺爺和他的台灣好朋友：NAGEE島國畫",
+      "author":"nagee",
+      "categories":"本書分類：社會科學> 政治> 評論本書分類：生活風格> 圖文書/繪本> 華文圖文書/繪本本書分類：漫畫> 職場／社會寫實> 政治",
+      "orig_price":"定價：380元",
+      "spec_price":"優惠價：79折300元",
+      "rank":31
+   },
+   "32":{
+      "title":"莫斯科紳士\nA Gentleman in Moscow",
+      "author":"亞莫爾．托歐斯",
+      "categories":"本書分類：文學小說> 翻譯文學> 美國文學",
+      "orig_price":"定價：450元",
+      "spec_price":"優惠價：79折356元",
+      "rank":32
+   },
+   "33":{
+      "title":"雖然想死，但還是想吃辣炒年糕：身心俱疲，卻渾然不覺，一位「輕鬱症」女孩與精神科醫師的12週療癒對話，陪你擁抱不完美的自己\n죽고 싶지만 떡볶이는 먹고 싶어",
+      "author":"白洗嬉",
+      "categories":"本書分類：心理勵志> 心理諮商/治療",
+      "orig_price":"定價：340元",
+      "spec_price":"優惠價：79折269元",
+      "rank":33
+   },
+   "34":{
+      "title":"解憂電影院（獨家燙金夜光書衣版）：那些電影教我的事2019最新力作！",
+      "author":"水ㄤ",
+      "categories":"本書分類：藝術設計> 電影> 電影評論本書分類：心理勵志> 勵志故事/散文> 勵志小品文",
+      "orig_price":"定價：360元",
+      "spec_price":"優惠價：79折284元",
+      "rank":34
+   },
+   "35":{
+      "title":"鯨吞億萬：一個大馬年輕人，行騙華爾街與好萊塢的真實故事\nBillion Dollar Whale The Man Who Fooled Wall Street, Hollywood, and the World",
+      "author":"湯姆‧萊特",
+      "categories":"本書分類：商業理財> 傳記> 人物傳記",
+      "orig_price":"定價：450元",
+      "spec_price":"優惠價：79折356元",
+      "rank":35
+   },
+   "36":{
+      "title":"故事課1：3分鐘說18萬個故事，打造影響力",
+      "author":"許榮哲",
+      "categories":"本書分類：商業理財> 職場工作術> 溝通說話",
+      "orig_price":"定價：350元",
+      "spec_price":"優惠價：79折277元",
+      "rank":36
+   },
+   "37":{
+      "title":"氣炸鍋好好玩料理125：熱炒超美味！蒸煮、油炸、煎烤、烘焙全提案，從新手到進階，網路詢問度最高的油切人氣食譜",
+      "author":"徐湘珠",
+      "categories":"本書分類：飲食> 食譜> 小家電料理",
+      "orig_price":"定價：380元",
+      "spec_price":"優惠價：79折300元",
+      "rank":37
+   },
+   "38":{
+      "title":"平安龜實驗室",
+      "author":"莊世瑩",
+      "categories":"本書分類：童書/青少年文學> 圖畫書> 知識繪本",
+      "orig_price":"定價：280元",
+      "spec_price":"優惠價：79折221元",
+      "rank":38
+   },
+   "39":{
+      "title":"空間設計 進階美學：20道超美感設計經典法則",
+      "author":"馬靜自",
+      "categories":"本書分類：藝術設計> 室內設計> 空間設計/佈置",
+      "orig_price":"定價：520元",
+      "spec_price":"優惠價：79折411元",
+      "rank":39
+   },
+   "40":{
+      "title":"打造富腦袋！從零累積被動收入：月收翻倍的財富攻略",
+      "author":"Ms.Selena",
+      "categories":"本書分類：商業理財> 投資理財> 理財規劃> 個人理財",
+      "orig_price":"定價：290元",
+      "spec_price":"優惠價：79折229元",
+      "rank":40
+   },
+   "41":{
+      "title":"全新制20次多益滿分的怪物講師TOEIC多益單字+文法（附1CD+防水書套）",
+      "author":"怪物講師教學團隊（台灣）",
+      "categories":"本書分類：語言學習> 語言能力檢定測驗> NEWTOEIC新多益> 字彙",
+      "orig_price":"定價：499元",
+      "spec_price":"優惠價：79折394元",
+      "rank":41
+   },
+   "42":{
+      "title":"感情這件事：五種角色，在愛的學習中遇見心理學家",
+      "author":"陳永儀",
+      "categories":"本書分類：心理勵志> 心理諮商/治療",
+      "orig_price":"定價：360元",
+      "spec_price":"優惠價：79折284元",
+      "rank":42
+   },
+   "43":{
+      "title":"優秀老師這樣做：輕鬆應付課堂挑戰50招\n50 Ways to Improve Student Behavior: Simple Solutions to Complex Challenges",
+      "author":"陶德．威塔克",
+      "categories":"本書分類：親子教養> 教育現場> 教師隨筆",
+      "orig_price":"定價：260元",
+      "spec_price":"優惠價：66折172元",
+      "rank":43
+   },
+   "44":{
+      "title":"為什麼你的退休金只有別人的一半？",
+      "author":"闕又上",
+      "categories":"本書分類：商業理財> 投資理財> 理財規劃> 退休/家計規劃",
+      "orig_price":"定價：480元",
+      "spec_price":"優惠價：79折379元",
+      "rank":44
+   },
+   "45":{
+      "title":"心智鍛鍊：成功實現目標的20堂課-最強大的心智科學╳最有效的學習心法（獨家限量雙作者親簽版）",
+      "author":"許皓宜",
+      "categories":"本書分類：心理勵志> 人格天賦/潛能開發本書分類：心理勵志> 心理學> 記憶與學習",
+      "orig_price":"定價：380元",
+      "spec_price":"優惠價：79折300元",
+      "rank":45
+   },
+   "46":{
+      "title":"蛋療：中醫祕傳五大內臟對症蛋食養生帖",
+      "author":"吳宏乾",
+      "categories":"本書分類：醫療保健> 中醫> 中醫養生本書分類：飲食> 食譜> 其他/綜合",
+      "orig_price":"定價：399元",
+      "spec_price":"優惠價：79折315元",
+      "rank":46
+   },
+   "47":{
+      "title":"Jay的跑步筆記：矽谷工程師激勵上萬人的科學化訓練與生活哲學",
+      "author":"許立杰",
+      "categories":"本書分類：生活風格> 運動/戶外活動> 跑步本書分類：生活風格> 運動/戶外活動> 體能訓練",
+      "orig_price":"定價：420元",
+      "spec_price":"優惠價：79折332元",
+      "rank":47
+   },
+   "48":{
+      "title":"向大師學調色〔美國33年長銷經典〕：從配色到構圖，讓水彩畫更出色生動的31堂課\nMaking Color Sing，25th Anniversary Edition",
+      "author":"珍‧多比",
+      "categories":"本書分類：藝術設計> 繪畫> 繪畫方法> 水彩技法",
+      "orig_price":"定價：550元",
+      "spec_price":"優惠價：79折435元",
+      "rank":48
+   },
+   "49":{
+      "title":"脆弱練習",
+      "author":"陳繁齊",
+      "categories":"本書分類：文學小說> 詩> 華文現代詩",
+      "orig_price":"定價：350元",
+      "spec_price":"優惠價：79折277元",
+      "rank":49
+   },
+   "50":{
+      "title":"上班前的關鍵1小時：為什麼成功的人比別人早1小時起床？只要每天早晨做這6件事，就能徹底改變你的工作和生活！\nThe Miracle Morning",
+      "author":"哈爾‧埃爾羅德",
+      "categories":"本書分類：心理勵志> 個人成長> 人生規劃/自我改變",
+      "orig_price":"定價：350元",
+      "spec_price":"優惠價：79折277元",
+      "rank":50
+   },
+   "51":{
+      "title":"全新制怪物講師教學團隊的TOEIC多益5回全真模擬試題+解析(附1MP3+防水書套)",
+      "author":"林政翰",
+      "categories":"本書分類：語言學習> 語言能力檢定測驗> NEWTOEIC新多益> 攻略/題庫",
+      "orig_price":"定價：599元",
+      "spec_price":"優惠價：79折473元",
+      "rank":51
+   },
+   "52":{
+      "title":"創譯兄弟商英職人養成術：52週英文質感優雅升級（限量簽名版）",
+      "author":"浩爾 Howard",
+      "categories":"本書分類：語言學習> 英語> 商務會話",
+      "orig_price":"定價：480元",
+      "spec_price":"優惠價：79折379元",
+      "rank":52
+   },
+   "53":{
+      "title":"富爸爸，窮爸爸（20週年紀念版）",
+      "author":"羅勃特‧T‧清崎",
+      "categories":"本書分類：商業理財> 投資理財> 理財規劃> 個人理財",
+      "orig_price":"定價：380元",
+      "spec_price":"優惠價：79折300元",
+      "rank":53
+   },
+   "54":{
+      "title":"故事學：學校沒教，你也要會的表達力",
+      "author":"歐陽立中",
+      "categories":"本書分類：童書/青少年文學> 語言學習> 中文> 閱讀/作文本書分類：語言學習> 中文/方言> 寫作/作文> 字辭彙用法",
+      "orig_price":"定價：280元",
+      "spec_price":"優惠價：79折221元",
+      "rank":54
+   },
+   "55":{
+      "title":"讓每一次的離職都加分：從離職的念頭中，盤點內在渴望，設計自我實現的藍圖",
+      "author":"朴建鎬 ",
+      "categories":"本書分類：商業理財> 成功法> 生涯規劃",
+      "orig_price":"定價：330元",
+      "spec_price":"優惠價：79折261元",
+      "rank":55
+   },
+   "56":{
+      "title":"讓每一次的離職都加分：從離職的念頭中，盤點內在渴望，設計自我實現的藍圖\n어제보다 더 나답게 일하고 싶다",
+      "author":"朴建鎬",
+      "categories":"本書分類：商業理財> 成功法> 生涯規劃",
+      "orig_price":"定價：330元",
+      "spec_price":"優惠價：79折261元",
+      "rank":56
+   },
+   "57":{
+      "title":"蝴蝶朵朵 （附贈應用指導手冊，兩冊不分售）",
+      "author":"幸佳慧",
+      "categories":"本書分類：童書/青少年文學> 圖畫書> 生活教育",
+      "orig_price":"定價：350元",
+      "spec_price":"優惠價：79折277元",
+      "rank":57
+   },
+   "58":{
+      "title":"屁屁偵探 噗噗！ 雪山的白色怪物？！\nOSHIRI TANTEI PUPU YUKIYAMA NO SHIROI KAIBUTSU！？",
+      "author":"Troll",
+      "categories":"本書分類：童書/青少年文學> 遊戲書> 益智遊戲本書分類：童書/青少年文學> 圖畫書> 幻想/冒險",
+      "orig_price":"定價：280元",
+      "spec_price":"優惠價：79折221元",
+      "rank":58
+   },
+   "59":{
+      "title":"第四類投資模式：行為技術分析，從人性與金融市場的互動與碰撞，洞察獲利勝機\nBehavioural Technical Analysis: An introduction to  behavioural finance and its role in technical analysis",
+      "author":"保羅．亞佐巴帝",
+      "categories":"本書分類：商業理財> 投資理財> 技術分析",
+      "orig_price":"定價：380元",
+      "spec_price":"優惠價：79折300元",
+      "rank":59
+   },
+   "60":{
+      "title":"冰雪奇緣2 外傳小說：闇影森林",
+      "author":"卡蜜拉‧蓓可",
+      "categories":"本書分類：童書/青少年文學> 兒童故事/小說> 科幻/奇幻",
+      "orig_price":"定價：360元",
+      "spec_price":"優惠價：79折284元",
+      "rank":60
+   },
+   "61":{
+      "title":"有錢人想的和你不一樣\nSecrets of the Millionaire Mind",
+      "author":"T. Harv Eker",
+      "categories":"本書分類：商業理財> 經濟／趨勢> 金融",
+      "orig_price":"定價：250元",
+      "spec_price":"優惠價：79折198元",
+      "rank":61
+   },
+   "62":{
+      "title":"窮查理的普通常識（增修版）：巴菲特50年智慧合夥人查理．蒙格的人生哲學\nPoor Charlie’s Almanack: The Wit and Wisdom of Charles T. Munger",
+      "author":"查理‧蒙格",
+      "categories":"本書分類：商業理財> 傳記> 人物傳記本書分類：商業理財> 投資理財> 投資學",
+      "orig_price":"定價：450元",
+      "spec_price":"優惠價：79折356元",
+      "rank":62
+   },
+   "63":{
+      "title":"大會計師教你從財報數字看懂經營本質",
+      "author":"張明輝",
+      "categories":"本書分類：商業理財> 會計/統計> 財務報表",
+      "orig_price":"定價：380元",
+      "spec_price":"優惠價：79折300元",
+      "rank":63
+   },
+   "64":{
+      "title":"2020問神達人王崇禮 開運解厄生肖運籤農民曆（隨書加贈：「鼠來寶」招財防漏錢母存摺套＋五路財神送財符貼紙）",
+      "author":"王崇禮",
+      "categories":"本書分類：宗教命理> 命相/命理> 曆書",
+      "orig_price":"定價：399元",
+      "spec_price":"優惠價：79折315元",
+      "rank":64
+   },
+   "65":{
+      "title":"冰雪奇緣2 故事繪本\nFrozen 2 Little Golden Book",
+      "author":"美國迪士尼公司",
+      "categories":"本書分類：童書/青少年文學> 圖畫書> 幻想/冒險",
+      "orig_price":"定價：300元",
+      "spec_price":"優惠價：79折237元",
+      "rank":65
+   },
+   "66":{
+      "title":"你的善良必須有點鋒芒2：如何聰明善良，才能讓你做個內心柔軟，但有骨氣的好人？",
+      "author":"慕顏歌",
+      "categories":"本書分類：心理勵志> 人際關係> 人脈/處世",
+      "orig_price":"定價：300元",
+      "spec_price":"優惠價：79折237元",
+      "rank":66
+   },
+   "67":{
+      "title":"習慣致富：成為有錢人，你不需要富爸爸，只需要富習慣",
+      "author":"湯姆．柯利",
+      "categories":"本書分類：商業理財> 成功法> 致富",
+      "orig_price":"定價：380元",
+      "spec_price":"優惠價：79折300元",
+      "rank":67
+   },
+   "68":{
+      "title":"2020年林務局「木作之森」筆記本",
+      "author":"行政院農業委員會林務局",
+      "categories":"本書分類：生活風格> 手作> 文具/手帳本書分類：專業/教科書/政府出版品> 政府出版品> 自然生態> 動/植物",
+      "orig_price":"定價：200元",
+      "spec_price":"優惠價：85折170元",
+      "rank":68
+   },
+   "69":{
+      "title":"Stonehouse的美術解剖學筆記\n석가의 해부학 노트",
+      "author":"石政賢",
+      "categories":"本書分類：藝術設計> 繪畫> 繪畫方法> 素描技法",
+      "orig_price":"定價：1200元",
+      "spec_price":"優惠價：79折948元",
+      "rank":69
+   },
+   "70":{
+      "title":"致命之白\nLethal White",
+      "author":"羅勃．蓋布瑞斯（J.K.羅琳）",
+      "categories":"本書分類：文學小說> 翻譯文學> 英國文學本書分類：文學小說> 懸疑/推理小說> 歐美懸疑/推理小說",
+      "orig_price":"定價：599元",
+      "spec_price":"優惠價：79折473元",
+      "rank":70
+   },
+   "71":{
+      "title":"尋找超值股：價格夠便宜嗎？解決投資難題的價值檢定程序\nGood Stocks Cheap：Value Investing with Confidence for a Lifetime of Stock Market Outperformance",
+      "author":"肯尼斯‧傑弗瑞．馬歇爾",
+      "categories":"本書分類：商業理財> 投資理財> 股票／證券",
+      "orig_price":"定價：420元",
+      "spec_price":"優惠價：79折332元",
+      "rank":71
+   },
+   "72":{
+      "title":"被討厭的勇氣：自我啟發之父「阿德勒」的教導\n嫌われる勇気：自己啓発の源流「アドラー」の教え",
+      "author":"岸見一郎",
+      "categories":"本書分類：心理勵志> 心理學> 經典學派/大師思想",
+      "orig_price":"定價：300元",
+      "spec_price":"優惠價：79折237元",
+      "rank":72
+   },
+   "73":{
+      "title":"希望・新生【四季法語】",
+      "author":"真如",
+      "categories":"本書分類：宗教命理> 佛教> 生活佛法",
+      "orig_price":"定價：350元",
+      "spec_price":"優惠價：79折277元",
+      "rank":73
+   },
+   "74":{
+      "title":"輕課程 寓教於樂 如何從桌上遊戲學習結構化程式設計邏輯：含Robot City v2新機器人蓋城市桌遊包(圖書+桌遊)",
+      "author":"許庭嘉",
+      "categories":"本書分類：電腦資訊> 程式設計/APP開發> 程式邏輯/演算法",
+      "orig_price":"定價：800元",
+      "spec_price":"優惠價：79折632元",
+      "rank":74
+   },
+   "75":{
+      "title":"心流：高手都在研究的最優體驗心理學（繁體中文唯一全譯本）\nFlow: The Psychology of Optimal Experience",
+      "author":"米哈里．契克森米哈伊",
+      "categories":"本書分類：商業理財> 職場工作術> 思考邏輯／決斷／創意本書分類：商業理財> 成功法> 自我成長本書分類：社會科學> 心理學> 概論本書分類：自然科普> 大腦科學本書分類：心理勵志> 人格天賦/潛能開發",
+      "orig_price":"定價：520元",
+      "spec_price":"優惠價：79折411元",
+      "rank":75
+   },
+   "76":{
+      "title":"一人公司：為什麼小而美是未來企業發展的趨勢\nCOMPANY OF ONE: WHY STAYING SMALL IS THE NEXT BIG THING FOR BUSINESS",
+      "author":"保羅．賈維斯",
+      "categories":"本書分類：商業理財> 管理與領導> 經營策略",
+      "orig_price":"定價：380元",
+      "spec_price":"優惠價：79折300元",
+      "rank":76
+   },
+   "77":{
+      "title":"渺光之律：華文俳句集",
+      "author":"洪郁芬",
+      "categories":"本書分類：文學小說> 詩> 華文現代詩",
+      "orig_price":"定價：220元",
+      "spec_price":"優惠價：9折198元",
+      "rank":77
+   },
+   "78":{
+      "title":"內心的太陽一直都在",
+      "author":"許峰源",
+      "categories":"本書分類：心理勵志> 勵志故事/散文> 勵志小品文",
+      "orig_price":"定價：260元",
+      "spec_price":"優惠價：79折205元",
+      "rank":78
+   },
+   "79":{
+      "title":"我的限制級人生：日子很鳥，也可以過得很好（限量親簽版）",
+      "author":"林欣蓓",
+      "categories":"本書分類：心理勵志> 勵志故事/散文> 真實人生故事",
+      "orig_price":"定價：360元",
+      "spec_price":"優惠價：79折284元",
+      "rank":79
+   },
+   "80":{
+      "title":"鯨騎士\nWHALE RIDER",
+      "author":"威提‧伊希麥拉",
+      "categories":"本書分類：童書/青少年文學> 兒童故事/小說> 溫馨勵志",
+      "orig_price":"定價：200元",
+      "spec_price":"優惠價：9折180元",
+      "rank":80
+   },
+   "81":{
+      "title":"潛意識的力量\nThe Power of Your Subconscious Mind",
+      "author":"約瑟夫．墨菲",
+      "categories":"本書分類：心理勵志> 人格天賦/潛能開發",
+      "orig_price":"定價：350元",
+      "spec_price":"優惠價：9折315元",
+      "rank":81
+   },
+   "82":{
+      "title":"鱷魚愛上長頸鹿 5：好忙好忙的聖誕節\nKrokodil und Giraffe warten auf Weihnachten",
+      "author":"達妮拉‧庫洛特",
+      "categories":"本書分類：童書/青少年文學> 圖畫書> 親情/友誼",
+      "orig_price":"定價：300元",
+      "spec_price":"優惠價：79折237元",
+      "rank":82
+   },
+   "83":{
+      "title":"刻意練習：原創者全面解析，比天賦更關鍵的學習法\nPeak: Secrets from the New Science of Expertise",
+      "author":"安德斯‧艾瑞克森",
+      "categories":"本書分類：商業理財> 職場工作術> 思考邏輯／決斷／創意本書分類：心理勵志> 人格天賦/潛能開發",
+      "orig_price":"定價：320元",
+      "spec_price":"優惠價：79折253元",
+      "rank":83
+   },
+   "84":{
+      "title":"屋頂上的貓：素養導向國語文評量設計實務",
+      "author":"許育健",
+      "categories":"本書分類：社會科學> 教育> 教學法/實例本書分類：專業/教科書/政府出版品> 教育類> 教育> 課程與教學",
+      "orig_price":"定價：280元",
+      "spec_price":"優惠價：9折252元",
+      "rank":84
+   },
+   "85":{
+      "title":"我不想說對不起：鄧惠文給孩子的情緒成長繪本（附故事朗讀CD+鄧醫師私房情緒祕方）",
+      "author":"鄧惠文",
+      "categories":"本書分類：童書/青少年文學> 圖畫書> 生活教育",
+      "orig_price":"定價：360元",
+      "spec_price":"優惠價：79折284元",
+      "rank":85
+   },
+   "86":{
+      "title":"生死之間︰柯文哲從醫療現場到政治戰場的修練",
+      "author":"柯文哲",
+      "categories":"本書分類：社會科學> 政治> 政治人物本書分類：醫療保健> 常識/概論> 傳記/雜論",
+      "orig_price":"定價：480元",
+      "spec_price":"優惠價：79折379元",
+      "rank":86
+   },
+   "87":{
+      "title":"存股輕鬆學：4年存300張金融股，每年賺自己的13%（超值加贈存股sop投資影音qrcode）",
+      "author":"孫悟天",
+      "categories":"本書分類：商業理財> 投資理財> 股票／證券",
+      "orig_price":"定價：380元",
+      "spec_price":"優惠價：79折300元",
+      "rank":87
+   },
+   "88":{
+      "title":"疼痛out！遠絡治療除痛diy：《來自天上的醫學》第二彈，瀉法＋補法全方位關鍵應用，按壓二點，立即消痛",
+      "author":"陳炫名",
+      "categories":"本書分類：醫療保健> 養生法> 其他療法",
+      "orig_price":"定價：590元",
+      "spec_price":"優惠價：79折466元",
+      "rank":88
+   },
+   "89":{
+      "title":"仙女老師的有溫度課堂：讓學生不想下課的教學和班級經營心法",
+      "author":"余懷瑾",
+      "categories":"本書分類：社會科學> 教育> 教學法/實例",
+      "orig_price":"定價：480元",
+      "spec_price":"優惠價：79折379元",
+      "rank":89
+   },
+   "90":{
+      "title":"討厭的人都跌倒吧\nころべばいいのに",
+      "author":"吉竹伸介",
+      "categories":"本書分類：童書/青少年文學> 圖畫書> 幻想/冒險",
+      "orig_price":"定價：300元",
+      "spec_price":"優惠價：79折237元",
+      "rank":90
+   },
+   "91":{
+      "title":"大腦喜歡這樣學：先認識自己的大腦，找到正確的思考路徑，就能專注、不拖延，提高記憶力，學會如何學習(二版)\na mind for numbers",
+      "author":"芭芭拉‧歐克莉",
+      "categories":"本書分類：自然科普> 大腦科學本書分類：自然科普> 數學> 概論",
+      "orig_price":"定價：330元",
+      "spec_price":"優惠價：79折261元",
+      "rank":91
+   },
+   "92":{
+      "title":"魔道祖師一（新裝版）《陳情令》 原著小說",
+      "author":"墨香銅臭",
+      "categories":"本書分類：輕小說> bl",
+      "orig_price":"定價：330元",
+      "spec_price":"優惠價：85折281元",
+      "rank":92
+   },
+   "93":{
+      "title":"深夜食堂 22",
+      "author":"安倍夜郎",
+      "categories":"本書分類：文學小說> 翻譯文學> 日本文學本書分類：漫畫> 其他類型> 溫馨療癒",
+      "orig_price":"定價：240元",
+      "spec_price":"優惠價：79折190元",
+      "rank":93
+   },
+   "94":{
+      "title":"出發！成為我們期待的大人：給年輕人的30個關鍵字",
+      "author":"陳怡彣",
+      "categories":"本書分類：心理勵志> 勵志故事/散文> 勵志小品文",
+      "orig_price":"定價：280元",
+      "spec_price":"優惠價：79折221元",
+      "rank":94
+   },
+   "95":{
+      "title":"跟著萌貓遊宋朝（首刷隨書附贈：2020跟著萌貓遊宋朝  喵嗚雙月曆）",
+      "author":"瓜幾拉",
+      "categories":"本書分類：藝術設計> 繪畫> 畫冊/繪畫集本書分類：人文史地> 中國史地> 朝代史> 宋/元/明本書分類：生活風格> 圖文書/繪本> 華文圖文書/繪本",
+      "orig_price":"定價：500元",
+      "spec_price":"優惠價：79折395元",
+      "rank":95
+   },
+   "96":{
+      "title":"去投票吧！：做出選擇，創造改變\ni voted：making a choice makes a difference",
+      "author":"馬克．舒爾曼",
+      "categories":"本書分類：童書/青少年文學> 圖畫書> 知識繪本",
+      "orig_price":"定價：320元",
+      "spec_price":"優惠價：79折253元",
+      "rank":96
+   },
+   "97":{
+      "title":"中文經典100句─論語",
+      "author":"文心工作室",
+      "categories":"本書分類：文學小說> 華文創作> 散文",
+      "orig_price":"定價：200元",
+      "spec_price":"優惠價：9折180元",
+      "rank":97
+   },
+   "98":{
+      "title":"你的善良必須有點鋒芒：36則讓你有態度、不委曲，深諳世故卻不世故的世道智慧",
+      "author":"慕顏歌",
+      "categories":"本書分類：心理勵志> 人際關係> 人脈/處世",
+      "orig_price":"定價：280元",
+      "spec_price":"優惠價：79折221元",
+      "rank":98
+   },
+   "99":{
+      "title":"覺醒之後：關於開悟的真相，以及如何將靈性覺醒落（二版）\nthe end of your world",
+      "author":"阿迪亞香提",
+      "categories":"本書分類：宗教命理> 新時代> 靈性導師/靈訊",
+      "orig_price":"定價：280元",
+      "spec_price":"優惠價：5折140元",
+      "rank":99
+   }
+
+}
