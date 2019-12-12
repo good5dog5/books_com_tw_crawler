@@ -11,6 +11,14 @@ def get_nth_category_str(col_categories, nth):
         return np.nan
     return categories_col_tolist(col_categories)[nth-1]
 
+def top_n_percent_money_saving(df, percent):
+    import math
+    assert percent >= 0 and percent <= 100
+    nth = math.ceil(percent / 100 * df.shape[0])
+
+    return df.sort_values(by=['save_amount'], ascending=False).iloc[0:nth, :]
+
+
 raw_df = pd.read_json('./top100.json', orient='index')
 raw_df['categories']   = raw_df['categories'].apply(lambda x: re.sub(r'\s+', '', x))
 
@@ -76,3 +84,9 @@ dict_2_json_file('l1_book_cnt.json', l1)
 dict_2_json_file('l2_book_cnt.json', l2)
 dict_2_json_file('l3_book_cnt.json', l3)
 dict_2_json_file('l4_book_cnt.json', l4)
+
+# top n %
+# 這本的 discount 欄位錯了
+new_df.drop(3, inplace=True)
+top_n_df = top_n_percent_money_saving(new_df, 5)
+top_n_df.to_csv('./top_5_discount.csv')
